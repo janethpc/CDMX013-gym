@@ -1,0 +1,15 @@
+
+#bg-dark{
+    background-color: #2c3e50;
+}
+
+#start{
+    color: white;
+    margin: 10px 1000px 0 0;
+    font-size: 1rem;
+    font-family: 'Montserrat', sans-serif;
+}
+
+#colors, #colors1, #colors2{
+    color: rgb(252, 252, 252);
+}
