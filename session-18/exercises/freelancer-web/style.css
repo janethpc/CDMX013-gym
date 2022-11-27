@@ -3,13 +3,16 @@
     background-color: #2c3e50;
 }
 
-#start{
-    color: white;
-    margin: 10px 1000px 0 0;
-    font-size: 1rem;
-    font-family: 'Montserrat', sans-serif;
+#banner{
+    background-color: #18bc9c;
 }
 
-#colors, #colors1, #colors2{
+
+#colorsstart, #colors, #colors1, #colors2{
     color: rgb(252, 252, 252);
+    font-family: 'Montserrat Black 900', sans-serif;;
+}
+
+#colorstart{
+    font-size:small;
 }
